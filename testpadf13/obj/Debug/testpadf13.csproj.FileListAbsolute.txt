@@ -1,0 +1,7 @@
+C:\Users\rudye\source\repos\testpadf13\testpadf13\bin\Debug\testpadf13.exe.config
+C:\Users\rudye\source\repos\testpadf13\testpadf13\bin\Debug\testpadf13.exe
+C:\Users\rudye\source\repos\testpadf13\testpadf13\bin\Debug\testpadf13.pdb
+C:\Users\rudye\source\repos\testpadf13\testpadf13\obj\Debug\testpadf13.csprojAssemblyReference.cache
+C:\Users\rudye\source\repos\testpadf13\testpadf13\obj\Debug\testpadf13.csproj.CoreCompileInputs.cache
+C:\Users\rudye\source\repos\testpadf13\testpadf13\obj\Debug\testpadf13.exe
+C:\Users\rudye\source\repos\testpadf13\testpadf13\obj\Debug\testpadf13.pdb
